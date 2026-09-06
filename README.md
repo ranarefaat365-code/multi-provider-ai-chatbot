@@ -1,4 +1,4 @@
-# Day 1 — AI Assistant
+# AI Assistant
 
 A beginner-friendly AI chatbot with two interfaces (terminal + web) and one
 shared "brain" that can talk to **Gemini**, **OpenAI**, or a local **Ollama**
@@ -58,5 +58,3 @@ add the reply → repeat. `llm_service.py` decides which provider answers based 
 Switch provider by editing `LLM_PROVIDER` in `.env`.
 
 ---
-
-Built as Day 1 of an AI engineering learning path.
